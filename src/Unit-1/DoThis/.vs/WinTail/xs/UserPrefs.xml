@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E8D9CD24-DBF5-4524-AC3D-B7B2995FBA1F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TailActor.cs">
+    <Files>
+      <File FileName="TailActor.cs" Line="106" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WinTail PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
